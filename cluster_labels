@@ -1,0 +1,5 @@
+CLUSTER 4 : “Low Risk”
+CLUSTER 3 : “Average Risk”
+CLUSTER 2 : “Very Low Risk”
+CLUSTER 1 : “Very High Risk”
+CLUSTER 0 : “High Risk”
